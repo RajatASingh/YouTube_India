@@ -1,5 +1,5 @@
-# YouTube_India
-Data Analysis of YouTube India : <br>
+# Exploratory data analysis in python
+EDA of YouTube India : <br>
 <br>
 ### Unforatunetly GitHub Does not support Plotly charts To see Finale dashbord Click on the NBviewer link given Below:
 https://nbviewer.org/github/RajatASingh/YouTube_India/blob/main/YouTube_India%20.ipynb
