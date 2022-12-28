@@ -1,11 +1,10 @@
 # Exploratory data analysis in python
-EDA of YouTube India : <br>
+This is a data analysis of YouTube India's data from the year 2017 to 2018 using python and its libraries (Pandas, NumPy, Matplotlib, Seaborn, Plotly).
 <br>
-### Unforatunetly GitHub Does not support Plotly charts To see Finale dashbord Click on the NBviewer link given Below:
+# Attention:
+#### Unforatunetly GitHub Does not support Plotly charts! To see the finale report Click on the NBviewer link given Below:
 https://nbviewer.org/github/RajatASingh/YouTube_India/blob/main/YouTube_India%20.ipynb
-<img src="https://user-images.githubusercontent.com/105695431/207273547-41cd3ed4-9147-44e7-8d07-efa5ae1bd021.jpg" width="600" height="300" />
-<br>
-YouTube is the number one video streaming platform owned by google Which works as an ecosystem between Content Creators, Content Consumers, and advertisers having 2.29 billion active users it Ranked 2nd among Most Used Social Media Platforms Worldwide. 
+
 
 
 
