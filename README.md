@@ -1,10 +1,18 @@
 # Exploratory data analysis in python
-This is a data analysis of YouTube India's data from the year 2017 to 2018 using python and its libraries (Pandas, NumPy, Matplotlib, Seaborn, Plotly).
-<br>
+## YouTube Data Analysis:
+* Jupyter notebok: YouTube_India.ipynb
+* data set: data-set
+
 # Attention:
 #### Unforatunetly GitHub Does not support Plotly charts! To see the finale report Click on the NBviewer link given Below:
 https://nbviewer.org/github/RajatASingh/YouTube_India/blob/main/YouTube_India%20.ipynb
 
+# 1. Introduction
+* This README describes work done on the YouTube data set from the year 2017 to 2018. Resources used include Python and associated packages Jupyter,  Pandas, Numpy matplotlib, Seaborn, Plotly.
+* The analysis takes the form of a single Jupyter notebook of filename given above. To view this file, download it from this repository and start Jupyter notebook in the folder containing the file. Use the command Jupyter notebook on the command line.
+* Alternatively, view a static version of the notebook  using Jupyter Nbviewer link given above.
+* The YouTube data set is taken from Kaggle.
+* All images intended for inclusion in this README are located in the images subdirectory of this repository.
 
 
 
