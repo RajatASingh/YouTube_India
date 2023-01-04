@@ -11,7 +11,7 @@ https://nbviewer.org/github/RajatASingh/YouTube_India/blob/main/YouTube_India%20
 * This README describes work done on the YouTube data set from the year 2017 to 2018. Resources used include Python and associated packages Jupyter,  Pandas, Numpy matplotlib, Seaborn, Plotly.
 * The analysis takes the form of a single Jupyter notebook of filename given above. To view this file, download it from this repository and start Jupyter notebook in the folder containing the file. Use the command Jupyter notebook on the command line.
 * Alternatively, view a static version of the notebook  using Jupyter Nbviewer link given above.
-* The YouTube data set is taken from Kaggle.
+* The YouTube data set is taken from Kaggle.( https://www.kaggle.com/datasets/datasnaek/youtube-new)
 * All images intended for inclusion in this README are located in the images subdirectory of this repository.
 
 
@@ -30,7 +30,7 @@ https://nbviewer.org/github/RajatASingh/YouTube_India/blob/main/YouTube_India%20
 
 <img src="https://user-images.githubusercontent.com/105695431/209186116-a2356e3f-4dfe-4d7a-9384-c7b1c8660292.png" width="700" height="400" />
 
-https://www.kaggle.com/datasets/datasnaek/youtube-new
+
 
 
 
